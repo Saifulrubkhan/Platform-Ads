@@ -1,9 +1,5 @@
 # Ads Platform
 
-Course Information : [https://sbcode.net/iac/](https://sbcode.net/iac/)
-
-[![AWS Platform Engineering, Terraform, CI/CD & Observability](/docs/course-thumb.jpg)](https://youtu.be/PQyGzo3RRHk)
-
 A minimal python application for use while learning all about
 
 * AWS
